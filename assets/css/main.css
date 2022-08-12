@@ -1102,6 +1102,9 @@ header{
     align-items: center;
     z-index: 1;
 }
+.select-input__list{
+    z-index: 1;
+}
 /* Product item */
 .home-product{
     margin-bottom: 10px;
