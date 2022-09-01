@@ -511,9 +511,10 @@ header{
 .header__menu-item{
 
 }
-.header__menu-item:hover a{
+.header__menu-item:hover{
     background-color: #999;
     color: var(--white-color);
+    cursor: pointer;
 }
 .header__menu-link{
     text-decoration: none;
