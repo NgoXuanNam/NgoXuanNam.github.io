@@ -504,7 +504,7 @@ header{
 .header__menu-item:first-child,
 .header__menu-item:first-child a,
 .header__menu-item:first-child:hover a{
-    background-color: #3366CC;
+    background-color: #0b713b;
     color: var(--white-color);
 }
 
